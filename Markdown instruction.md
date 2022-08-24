@@ -33,6 +33,14 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 
 ## Links
 
+To emphasize links, add asterisks before and after the brackets and parentheses. For example, this is the *[Markdown Guide](https://www.markdownguide.org)*
+
+For relative links, use just the braskets and parentheses. For example, [About us](/about)
+
+To create mailto links, add your text in braskets, followed by mailto + email address text in parentheses. For example, [Contact us](mailto:admin@jetbrains.com)
+
+
+
 ## Tables
 
 ## Nested lists
