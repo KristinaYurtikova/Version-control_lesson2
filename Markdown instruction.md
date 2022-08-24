@@ -13,7 +13,20 @@ This text is ***really important*** or this text is ___really important___. This
 
 ## Lists
 
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. 
+
+To create an ordered list, add line items with numbers followed by periods. For example, 
+1. First item
+2. Second item
+3. Third item
+4. Forth item
+
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. For example, 
+* Item 1
+* Item 2
+* Item 3
+
+
+
 ## Images
 
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL. For example, ![Hello, it's a cat](Cat.jfif)
