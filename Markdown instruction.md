@@ -43,6 +43,15 @@ To create mailto links, add your text in braskets, followed by mailto + email ad
 
 ## Tables
 
+
+To create a table, use some hyphens (--) and pipes (|). For example, 
+
+|Month     |Responsable|
+|----------|-----------|
+|January   |Ivanov     |
+|Febrary   |Sidorov    |
+
+
 ## Nested lists
 
 ## Conclusion
